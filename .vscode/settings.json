@@ -1,0 +1,11 @@
+{
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "VoiceTutorial/lib/sphinx4-core-5prealpha.jar",
+        "VoiceTutorial/lib/sphinx4-data-1.0.0.jar",
+        "VoiceTutorial/lib/sphinx4-core-5prealpha-20160628.232526-10.jar",
+        "VoiceTutorial/lib/sphinx4-data-5prealpha-20160628.232535-10.jar",
+        "VoiceAssistant/lib/sphinx4-core-5prealpha-20160628.232526-10.jar",
+        "VoiceAssistant/lib/sphinx4-data-5prealpha-20160628.232535-10.jar"
+    ]
+}
