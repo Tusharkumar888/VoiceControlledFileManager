@@ -26,11 +26,11 @@ VoiceControlledFileManager is a hands-free file management system that allows us
 ## Usage
 1. Compile the program:
    ```sh
-   javac Main.java
+   javac SpeechToText
    ```
 2. Run the program:
    ```sh
-   java Main
+   java SpeechToText
    ```
 3. Speak commands like:
    - "Open YouTube"
@@ -44,7 +44,7 @@ VoiceControlledFileManager is a hands-free file management system that allows us
 - Java 8+
 - Sphinx speech recognition library
 - File handling libraries
-
+- GUI framework (e.g., Swing or JavaFX)
 ## Contributing
 Feel free to submit issues or pull requests to improve this project!
 
