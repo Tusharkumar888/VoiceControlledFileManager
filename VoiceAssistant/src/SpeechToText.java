@@ -37,7 +37,7 @@ public class SpeechToText {
                         System.out.println("Opening YouTube...");
                         Desktop.getDesktop().browse(new URI("http://youtube.com/"));
                         break;
-                    case "format folder":
+                    case "format":
                         System.out.println("Executing FileOrganizerGUI...");
                         new Thread(() -> FileOrganizerGUI.main(new String[]{})).start();
 ;

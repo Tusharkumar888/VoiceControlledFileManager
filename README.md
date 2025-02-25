@@ -35,7 +35,7 @@ VoiceControlledFileManager is a hands-free file management system that allows us
 3. Speak commands like:
    - "Open YouTube"
    - "Open Google"
-   - "Format folder"
+   - "Format"
    - "Folder"
    - "Start"
    - "Stop"
